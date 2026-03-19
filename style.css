@@ -1,0 +1,12 @@
+body{
+    margin: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.card-img-top {
+  width: 100%;   /* ocupa toda a largura do card */
+  height: auto;  /* mantém proporção */
+  max-height: 300px; /* limita altura */
+}
+
